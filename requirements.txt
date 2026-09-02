@@ -1,0 +1,15 @@
+numpy>=1.26
+pandas>=2.1
+simpy>=4.1
+scipy>=1.11
+matplotlib>=3.8
+seaborn>=0.13
+ortools>=9.9
+pytest>=8.0
+
+# Potential later additions (Phase 10+), uncomment when needed:
+# scikit-learn
+# xgboost
+# networkx
+# geopandas
+# osmnx
